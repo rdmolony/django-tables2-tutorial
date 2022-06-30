@@ -1,0 +1,5 @@
+name: tables2
+channels:
+  - conda-forge
+dependencies:
+  - python-dotenv
